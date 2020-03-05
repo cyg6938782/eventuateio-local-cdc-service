@@ -1,1 +1,1 @@
-FROM eventuateio/eventuateio-local-cdc-service:0.17.0.RELEASE
+FROM eventuateio/eventuateio-local-cdc-service:0.30.4.RELEASE
